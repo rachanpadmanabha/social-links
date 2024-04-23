@@ -13,8 +13,8 @@ body {
   margin: auto;
   width: 400px;
   display: flex;
-  justify-content: center; /* Center content horizontally */
-  align-items: center; /* Center content vertically */
+  justify-content: center;
+  align-items: center;
   margin-top: 100px;
   flex-direction: column;
   padding: 40px 20px;
@@ -28,8 +28,8 @@ body {
 }
 .image-container {
   display: flex;
-  justify-content: center; /* Center content horizontally */
-  align-items: center; /* Center content vertically */
+  justify-content: center;
+  align-items: center;
   width: 100%;
   margin: auto;
 }
