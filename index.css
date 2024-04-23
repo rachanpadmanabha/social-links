@@ -16,6 +16,18 @@ body {
   flex-direction: column;
   padding: 40px 20px;
 }
+@media (max-width: 768px) {
+  .profile-container {
+    background-color: hsl(0, 0%, 12%);
+    margin: auto;
+    width: 95%;
+    margin: 100px 0;
+    overflow: hidden;
+  }
+  body {
+    overflow: hidden;
+  }
+}
 .address {
   color: hsl(75, 94%, 57%);
   font-weight: 400;
